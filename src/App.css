@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body{
+  background: #15202b;
+  color: whitesmoke;
+}
+h1{
+  text-align: center;
+  margin: 100px auto 50px;
+  font-weight: 600px;
+}
