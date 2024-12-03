@@ -51,3 +51,15 @@ button{
     border: 3px solid rgba(255, 255, 255, 0.685);
     transition-duration: 300ms;
 }
+
+@media only screen and (max-width: 480px) {
+    form{
+        max-width: 400px;
+        display: flex;
+        justify-content: center;
+    }
+    button{
+        padding: 0 20px;
+    }
+
+}
